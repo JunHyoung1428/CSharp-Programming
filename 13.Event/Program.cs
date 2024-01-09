@@ -1,4 +1,4 @@
-﻿nnamespace _13.Event
+﻿namespace _13.Event
 {
     internal class Program
 {
